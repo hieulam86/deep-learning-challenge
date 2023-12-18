@@ -28,7 +28,7 @@ Number of Neurons and Layers:
 Activation Functions:
         'relu' activation functions were used for the first two hidden layers, and 'tanh' was used for the third hidden layer. 'sigmoid' activation was employed in the output layer for binary classification.
 
-Model Architecture Summary
+## Model Architecture Summary
 
 ### Model: "sequential"
 _________________________________________________________________
